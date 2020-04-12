@@ -1,0 +1,13 @@
+<record>
+
+
+	<boolean id="preload" value="false"/>
+
+	<boolean id="amap" value="false"/>
+
+	<list id="maps">
+		<record from="home" to="graphics/pictures/club/2082082528/kits/home"/>		
+		<record from="away" to="graphics/pictures/club/2082082528/kits/away"/>	
+		<record from="third" to="graphics/pictures/club/2082082528/kits/third"/>			
+	</list>
+</record>
